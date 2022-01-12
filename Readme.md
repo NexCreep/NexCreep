@@ -24,3 +24,7 @@ I don't want nothing in specifict, the only thing I want you to enjoy all my rep
 <img src="./img/tech/kt.png" height="50px" width="50px" title="Kotlin"/>
 <img src="./img/tech/cpp.svg" height="50px" width="50px" title="C++"/>
 <img src="./img/tech/cs.png" height="50px" width="60px" title="CSharp"/>
+
+### TOP laguages of my Github
+
+![top_lang](https://github-readme-stats.vercel.app/api/top-langs/?username=NexCreep&hide=css,scss,html&theme=tokyonight)
