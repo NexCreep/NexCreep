@@ -12,15 +12,21 @@ I don't want nothing in specifict, the only thing I want you to enjoy all my rep
 
 ### Actually languages I know?
 
-<img src="./img/tech/js.png" height="50px" width="50px" title="Javascript"> <img src="./img/tech/arrow.png" height="50px" width="50px"/> <img src="./img/tech/node.png" height="50px" width="50px" title="Node JS" href="https://nodejs.org/es/"> <img src="./img/tech/ex.png" height="50px" width="50px" title="Express JS" href="https://expressjs.com/" > <img src="./img/tech/react.png" height="50px" width="50px" title="React JS" href="https://reactjs.org/" > <img src="./img/tech/elec.png" height="50px" width="50px" title="Electron JS" href="https://www.electronjs.org/" > <img src="https://discordjs.guide/meta-image.png" height="50px" width="50px" title="Discord.js">
-<br/>
-<img src="./img/tech/py.png" height="50px" width="50px" title="Python"> <img src="./img/tech/arrow.png" height="50px" width="50px"/>
-<img src="./img/tech/pill.png" height="50px" width="50px" title="Pillow" href="https://python-pillow.org/" > <img src="./img/tech/pyqt.png" height="50px" width="50px" title="PyQt" href="https://doc.qt.io/" > <img src="./img/tech/pyga.png" height="50px" width="50px" title="Pygame" href="https://www.pygame.org/news"> <img src="https://i.imgur.com/8ciREEh.jpg" height="50px" width="50px" title="Discord.py" href="https://discordpy.readthedocs.io/en/stable/"/> <img src="./img/tech/flask.svg" height="50px" width="50px" title="Flask" href="https://flask.palletsprojects.com/en/1.1.x/"> 
-<br/>
-<img src="./img/tech/java.png" height="60px" width="60px" title="Java"/>
-<img src="./img/tech/c.png" height="60px" width="60px" title="C"/>
-<img src="./img/tech/cpp.svg" height="50px" width="50px" title="C++"/>
-<img src="./img/tech/cs.png" height="50px" width="60px" title="CSharp"/>
+<div style="display: inline-block" >
+  <img src="./img/tech/js.png" height="50px" width="50px" title="Javascript">
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="50px" width="50px" title="Typescript">
+  &nbsp;&nbsp;
+  <img src="./img/tech/py.png" height="50px" width="50px" title="Python">
+  &nbsp;
+  <img src="./img/tech/java.png" height="60px" width="60px" title="Java"/>
+  &nbsp;
+  <img src="./img/tech/c.png" height="50px" width="45px" title="C"/>
+  &nbsp;
+  <img src="./img/tech/cpp.svg" height="50px" width="50px" title="C++"/>
+  &nbsp;
+  <img src="https://gitlab.com/uploads/-/system/project/avatar/11151452/csharp-logo.png" height="50px" width="45px" title="C#"/>
+</div>
 
 ### Languages & technologies I'm learning
 
