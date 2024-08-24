@@ -4,7 +4,7 @@
 
 I'm from Spain, specificly from Madrid. I'm 21 years old & I love coding ❤
 
-I'm IT technician and programming student. 📖
+I'm Junior Backend Developer. 📖
 
 ### What I spect from github?
 
